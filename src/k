@@ -1,0 +1,12 @@
+import React from 'react';
+
+const NewComponent = () => {
+  return (
+    <div className="bg-blue-500 p-4 text-white">
+      <h1 className="text-2xl font-bold">New Component</h1>
+      <p>This is a new component added from the design.</p>
+    </div>
+  );
+};
+
+export default NewComponent;
